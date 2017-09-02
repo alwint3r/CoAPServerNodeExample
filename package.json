@@ -1,0 +1,10 @@
+{
+  "name": "CoAPServerNodeExample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alwin Arrasyid <alwin.ridd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coap": "^0.21.0"
+  }
+}
